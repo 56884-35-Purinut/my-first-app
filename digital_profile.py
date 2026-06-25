@@ -1,4 +1,4 @@
-import steamlit as at
+import streamlit as st
 
 st.title("My Digital")
 
